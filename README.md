@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LogHotGamerz?tab=repositories](https://github.com/LogHotGamerz?tab=repositories)
+- 👨‍💻 All of my projects are available at [My repositories](https://github.com/LogHotGamerz?tab=repositories)
 
 - 💬 Ask me about **Web Developing**
 
