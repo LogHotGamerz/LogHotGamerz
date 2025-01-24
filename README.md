@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/ItzLoghotXD?tab=repositories)
 
-- 📫 How to reach me **loghot.gamerz.official@gmail.com**
+- 📫 How to reach me **itzloghotxd@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
